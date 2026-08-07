@@ -1,4 +1,4 @@
-# 🎓 SVNIT Course Registration System
+# 🎓 SVNIT University Management System
 
 A terminal-based University Course Registration System built from scratch using core Java and advanced Object-Oriented Programming (OOP) principles. 
 
